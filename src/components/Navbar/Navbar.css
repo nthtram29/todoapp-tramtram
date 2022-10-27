@@ -73,13 +73,12 @@
     .home,.about,.welcome,.profile{
         color:white;
         text-align:center;
-        padding: 32px;
         width: 100%;
         transition: all 0.5s ease;
     }
-    .profile{
+    /* .profile{
         border: none;
-    }
+    } */
     .mobile-menu-icon{
         display: block;
         position: absolute;
